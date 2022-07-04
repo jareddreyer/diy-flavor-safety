@@ -406,6 +406,11 @@
     "description": null,
     "created": "2021-01-15",
     "updated": null,
-    "links": null
+    "links": [
+      {
+        "title": "TFA Spec Sheet",
+        "href": "https://shop.perfumersapprentice.com/specsheetlist.aspx?cas=75-07-0"
+      }
+    ]
   }
 ]

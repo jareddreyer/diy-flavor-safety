@@ -8470,7 +8470,7 @@
   {
     "name": "Brazilian Coffee",
     "vendor": "WF",
-    "category": "Avoid",
+    "category": "Caution",
     "casNumbers": [
       "75-07-0"
     ],
@@ -8685,6 +8685,57 @@
         "manual": true,
         "created": "2021-01-25",
         "updated": "2021-01-25"
+      }
+    ]
+  },
+  {
+    "name": "Papaya",
+    "vendor": "TPA",
+    "category": "Avoid",
+    "casNumbers": [
+      "75-07-0"
+    ],
+    "ingredients": [
+      {
+        "casNumber": "75-07-0",
+        "sdsUrl": "https://shop.perfumersapprentice.com/msds/555611.pdf",
+        "manual": true,
+        "created": "2022-06-30",
+        "updated": "2022-06-30"
+      }
+    ]
+  },
+  {
+    "name": "Apple Candy",
+    "vendor": "TPA",
+    "category": "Avoid",
+    "casNumbers": [
+      "75-07-0"
+    ],
+    "ingredients": [
+      {
+        "casNumber": "75-07-0",
+        "sdsUrl": "https://shop.perfumersapprentice.com/msds/345591.pdf",
+        "manual": true,
+        "created": "2022-06-30",
+        "updated": "2022-06-30"
+      }
+    ]
+  },
+  {
+    "name": "Brazillian Candy",
+    "vendor": "TPA",
+    "category": "Avoid",
+    "casNumbers": [
+      "75-07-0"
+    ],
+    "ingredients": [
+      {
+        "casNumber": "75-07-0",
+        "sdsUrl": "https://shop.perfumersapprentice.com/msds/345591.pdf",
+        "manual": true,
+        "created": "2022-06-30",
+        "updated": "2022-06-30"
       }
     ]
   }
